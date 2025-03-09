@@ -19,7 +19,7 @@ Before using this script, ensure you have the following:
 ## Installation
 1. Clone this repository (if applicable):
    ```bash
-   git clone https://github.com/your-username/ethereum-balance-checker.git
+   git clone https://github.com/moxonx/eth_private_key_brute_force.git
    cd ethereum-balance-checker
    ```
 2. Install the required Python packages:
